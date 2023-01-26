@@ -1,6 +1,7 @@
 <?php 
 
 ////////////////////////////////////////////////////
+//MR.FRE / Fred Wolfe alternate login script
 //
 // Authentication server, reference implementation 0.1
 // 
